@@ -8,4 +8,4 @@ This a repo that showcases one's HTML and CSS skills by replicating a design pro
 3. Use the img function in HTML to insert an animal photo of 300x300
 4. Style image, paragraphs, and containers in CSS
 ## Contribution
-No contrubtion is needed. The intended use is to replicate your own animal trading card.
+No contribution is needed. The intended use is to replicate your own animal trading card.
